@@ -2,17 +2,17 @@
 title:Think Blog
 SEOTitle:ning的博客 | Think Blog
 header-img:img/post-bg-desk.jpg
-email: liening39@gmail.com
-description: "Every failure is leading towards success."
-keyword: "Think, Think Blog, wg的博客"
-url: "https://wuweiguo99.github.io"          # your host, for absolute URL
+email:liening39@gmail.com
+description:"Every failure is leading towards success."
+keyword:"Think, Think Blog, wg的博客"
+url:"https://wuweiguo99.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "a person who thinks all the time has nothing to think about except thoughts"
-sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description:"a person who thinks all the time has nothing to think about except thoughts"
+sidebar-avatar:/img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -67,14 +67,14 @@ kramdown:
  # repo: qiubaiying.github.io    #仓库名称
  # owner: qiubaiying    #github用户名
  # admin: qiubaiying
- 3 distractionFreeMode: true #是否启用类似FB的阴影遮罩
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: ?d719bc7d0e9b03dad5c873d292539458
+ba_track_id:?d719bc7d0e9b03dad5c873d292539458
 
 # Google Analytics
 #ga_track_id:             # Format: UA-xxxxxx-xx
